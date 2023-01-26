@@ -1,1 +1,1 @@
-# CTA-DDOS
+# Kill-T920 DDoS
